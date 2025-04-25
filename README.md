@@ -1,5 +1,5 @@
 
-# Custom WordPress Theme with Contact Page Template
+# Custom WordPress Theme with Custom Contact Page Template
 
 ## Overview
 This is a fully **custom WordPress theme** featuring a **dedicated Contact Page template** for efficient user interaction and form submissions. It includes **responsive design**, **database handling**, and **AJAX-powered form processing** to create a seamless experience.
